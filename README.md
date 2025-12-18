@@ -1,5 +1,4 @@
 # cartona_tests
-<img width="226" height="226" alt="image" src="https://github.com/user-attachments/assets/57bd98b0-f6c3-437e-aa91-29aef64063a2" />
 
 ---
 
